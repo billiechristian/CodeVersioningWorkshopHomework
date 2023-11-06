@@ -1,0 +1,3 @@
+Merging is combining one branch with another branch. This is done by using the git merge command. 
+The git merge command is used to merge branches and is executed after the git checkout command. 
+The git merge command merges the specified branch into the current branch.
