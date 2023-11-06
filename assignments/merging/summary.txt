@@ -2,4 +2,8 @@ Merging is combining one branch with another branch. This is done by using the g
 The git merge command is used to merge branches and is executed after the git checkout command. 
 The git merge command merges the specified branch into the current branch.
 
-Merging is important in Git because it allows developers to combine changes from different branches into a single branch. This is useful when working on a project with multiple developers, as it allows each developer to work on their own branch and then merge their changes into the main branch when they are ready. Merging also helps to keep the project history organized and makes it easier to track changes over time.
+Merging is important in Git because it allows developers to combine changes from different branches into a single branch. 
+This is useful when working on a project with multiple developers, 
+as it allows each developer to work on their own branch and then merge their 
+changes into the main branch when they are ready. 
+Merging also helps to keep the project history organized and makes it easier to track changes over time.
