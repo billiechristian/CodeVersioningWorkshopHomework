@@ -1,0 +1,2 @@
+Branching is version controlling in git, where collaborators could each develop their own feature from 
+the main/master branch without conflicting the main/master branch.
