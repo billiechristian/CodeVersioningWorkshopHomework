@@ -1,2 +1,3 @@
-Branching is version controlling in git, where collaborators could each develop their own feature from 
-the main/master branch without conflicting the main/master branch.
+In Git, branching is the process of creating a new line of development that diverges from the main line of development. 
+This allows multiple developers to work on different features or fixes simultaneously without 
+interfering with each other's work. Each branch can have its own commits, changes, and history.
